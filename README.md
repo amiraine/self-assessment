@@ -22,17 +22,25 @@
 
 * I worry that the narrative in my cover letters isn't cohesive enough and that it's just not compelling. I can't really see myself being more interesting than every other candidate.
 
-2. Make a Plan
-Then, think critically about how you can address the areas identified in your answers. What work can you do to begin knocking down those barriers? Could you study up on a skill? Work on further refining your cover letter? Seek out resources with interview advice? Practice coding concepts by building another app?
+### 2. Make a Plan
+* Work on my cover letter, refine strengths and weaknesses.
+  * outline a cohesive narrative
+  * make sure that it highlights strengths
+  * downplay weaknesses but don't totally omit them
 
-Determine what steps you can take to further develop each area identified in your answers. Add a Plan section to your README. Add description or list outlining how you can work toward improving these areas, and commit.
+* Get a therapist lmfao.
+  * maybe when I have insurance lol.
 
-3. Execute the Plan
-After creating your plan, spend the remainder of the day working through it. You don't have to finish everything on your list, we only expect you to put in a solid day's work today. Add a README section called Work, and begin an ongoing list of tasks/activities you complete today, with their corresponding materials or content. Add to the list and commit periodically throughout the day.
+* Spend a lot of time on React and refining personal projects.
+  * add readme's to all pinned projects and other projects eventually
+  * finish any incomplete pinned projects.
+  * create and finish my portfolio site
 
-What do we mean by "corresponding materials or content"? Just the tangible stuff associated with each activity. For instance, if you watched a YouTube tutorial series on interview tips, or an advanced technical concept, link it! If you researched and signed up for an event to help better network, include a screenshot of your ticket. If you built an app to help you practice, include the project in the repository. If you wrote a blog post or further refined your cover letters, include the text files here in your repository. You get the picture!
+### 3. Work
+  * Review pinned repositories
+  
 
-4. Set a Trajectory
+### 4. Set a Trajectory
 Shortly before your 8 hours of work is complete, add a section called Reflection & Next Steps to your README containing answers to the following questions:
 
 Do you feel like you made improvement today? Are you more confident and comfortable in one or more areas? Why or why not?
