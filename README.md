@@ -44,28 +44,9 @@
   * begin webpack project
   * attempt to make sticky navigation but failed, will add later.
   * create projects section
-  * add sticky nav and profile section 
+  * add sticky nav and profile section
 
-### 4. Set a Trajectory
-Shortly before your 8 hours of work is complete, add a section called Reflection & Next Steps to your README containing answers to the following questions:
+### 4. Set a Trajectory / Reflection + next steps
 
-Do you feel like you made improvement today? Are you more confident and comfortable in one or more areas? Why or why not?
-
-Where are you at now? What are your next steps? What do you still need to accomplish to feel confident and prepared to begin your eventual job search?
-
-Inspiration and Examples
-Not sure how to tackle your own areas for improvement? Here's some general examples to kickstart your own brainstorming and self improvement process:
-
-If you struggle with your ability to write more algorithmic logic, sign up for a website with practice problems, such as HackerRank, and add screenshots of your progress to your project.
-
-If you identify an area of core technical knowledge you should improve in before applying for jobs, create some project that demonstrates you have worked on something that shows this. Build an app whose theme is to demonstrate this.
-
-If you won't feel fully comfortable and confident applying for jobs until your online presence is more developed, continue cleaning up your GitHub portfolio, and LinkedIn. Heck, maybe even start a blog or personal website to craft even more of an online presence for yourself.
-
-If you need more time to write cover letters and resumes you feel really good about before you're fully comfortable applying for jobs, continue researching tips and tricks, and developing the materials you started in class yesterday.
-
-If you have trouble networking or speaking, but know the future job title you want may require it, draft a plan for a lightning talk on a topic of your choice. Include your draft, written or sketched, in your project. Research where you can submit and deliver it as practice. Find a list of conferences and read through their schedules.
-
-If there are specific technical skills you don't feel confident in, revisit our lessons and seek out additional outside resources or tutorials, follow along to build an example project, and/or create your own small application practicing these skills.
-
-If you're uncertain what developer interviews look like, and this prevents you from being comfortable and confident, learn more about the process! Seek out videos, blog posts, and other resources that discuss professional developers' real live experiences interviewing, and hiring managers discussing what they look for in candidates.
+  * I feel like I made some improvement as far as making headway with having a functional portfolio that I think looks good and does what it needs to. It was also a good exercise in functional programming as we will be doing in react because of the way that webpack loads and compiles images in its own directory which makes me feel a little more comfortable in approaching React.
+  * with regards to the other things I mentioned, I don't think anything else really changed but at least I understand the general syntax of react better.
