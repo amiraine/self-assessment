@@ -1,10 +1,12 @@
 # Self-Assessment
 ## by Ami Cooper
-First you must carefully assess which areas and skills you'll benefit from developing further. Create a repository with a README.md file. Add a section titled Self-Assessment. Include answers to these questions in this section and commit:
 
-Is there anything about the general job search and internship interview process you feel unprepared for? What would make you feel more comfortable and confident in your job search and internship interviews?
+`Is there anything about the general job search and internship interview process you feel unprepared for? What would make you feel more comfortable and confident in your job search and internship interviews?`
+* I think my primary deficiencies are confidence, a strong network to exploit, and some background technical knowledge. things like our first webpack template and our react template I feel like I can't really explain to someone why it's set up the way that it is or what all the individual pieces or plugins do and it makes me feel a bit self-conscious moving into the interview process.
 
-Is there anything about searching for and transitioning into your future career a technical field that you feel unprepared for? What would make you feel more comfortable and confident in this process?
+`Is there anything about searching for and transitioning into your future career a technical field that you feel unprepared for? What would make you feel more comfortable and confident in this process?`
+
+* 
 
 Put careful thought into your answers, listing as many as apply to you and your situation. Do you have hesitations about the in-person interview process? Is MVC routing still a shaky subject for you? Is there a skill set you want to fine-tune before you'll feel totally ready to apply for jobs? Are you not yet confident in the cover letters or resumes you created yesterday? There's absolutely no wrong answers to these questions. Just be completely honest, yet gentle with yourself. What could be prevent you from hitting Send on an application, or walking into an internship or job interview with complete confidence?
 
