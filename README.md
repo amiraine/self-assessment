@@ -38,7 +38,7 @@
 
 ### 3. Work
   * Review pinned repositories
-  
+  * update readme for study guide project
 
 ### 4. Set a Trajectory
 Shortly before your 8 hours of work is complete, add a section called Reflection & Next Steps to your README containing answers to the following questions:
