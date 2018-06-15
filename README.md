@@ -43,6 +43,7 @@
   * initialize new webpack project for portfolio page
   * begin webpack project
   * attempt to make sticky navigation but failed, will add later.
+  * create projects section
 
 ### 4. Set a Trajectory
 Shortly before your 8 hours of work is complete, add a section called Reflection & Next Steps to your README containing answers to the following questions:
