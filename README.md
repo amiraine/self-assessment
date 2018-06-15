@@ -41,6 +41,7 @@
   * update readme for study guide project
   * read some react lessons and decide to switch formats for my portfolio page so that i have one up and ready asap instead of building it with react.
   * initialize new webpack project for portfolio page
+  * begin webpack project
 
 ### 4. Set a Trajectory
 Shortly before your 8 hours of work is complete, add a section called Reflection & Next Steps to your README containing answers to the following questions:
